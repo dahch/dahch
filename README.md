@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
-<h3 align="center">Senior Software Engineer · Backend & Full-Stack</h3>
+<h3 align="center">Senior Software Engineer · Frontend & Full-Stack</h3>
 
 <p align="center">
   I build robust, scalable backend systems — from fintech to logistics — with 10+ years of experience across LATAM, the US, and Europe.
