@@ -51,6 +51,7 @@
 | [**ZineSave (backend)**](https://github.com/dahch/zinesave-be) | API that converts web articles/reading content into EPUB format, with job management and cloud storage integration | FastAPI · Python |
 | [**ZineSave (frontend)**](https://zinesave.io) | Web app for converting web articles into e-reader-optimized formats | Next.js · Tailwind CSS |
 | [**MusicSync**](https://github.com/dahch/music-sync) | Cross-platform app for comparing and syncing local audio libraries with portable DAC devices | Tauri v2 · Rust · React |
+| [**Kue**](https://github.com/dahch/kue) | Memory copilot for technical interviews — recalls your metrics, projects, and structure under pressure. Real-time transcription (mic + system audio), local RAG over your CV, and ultra-short hints to maintain fluency. Optional BYOK post-call analysis and AI Interview practice mode with TTS-generated questions | Tauri v2 · Rust · React · TypeScript · Candle · sqlite-vec · Moonshine STT |
 
 ---
 
